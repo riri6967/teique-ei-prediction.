@@ -1,0 +1,25 @@
+Model,True_,Pred,n,pct_of_errors
+FT-Transformer,Medium EI,Low EI,140,34.7
+FT-Transformer,Medium EI,High EI,93,23.0
+FT-Transformer,Low EI,Medium EI,84,20.8
+FT-Transformer,High EI,Medium EI,66,16.3
+FT-Transformer,Low EI,High EI,11,2.7
+FT-Transformer,High EI,Low EI,10,2.5
+SAINT,Medium EI,Low EI,125,32.0
+SAINT,Medium EI,High EI,102,26.1
+SAINT,Low EI,Medium EI,87,22.3
+SAINT,High EI,Medium EI,59,15.1
+SAINT,Low EI,High EI,11,2.8
+SAINT,High EI,Low EI,7,1.8
+TabNet,Medium EI,Low EI,135,29.3
+TabNet,Low EI,Medium EI,103,22.3
+TabNet,Medium EI,High EI,100,21.7
+TabNet,High EI,Medium EI,82,17.8
+TabNet,Low EI,High EI,22,4.8
+TabNet,High EI,Low EI,19,4.1
+XGBoost,Medium EI,Low EI,112,28.4
+XGBoost,Low EI,Medium EI,105,26.6
+XGBoost,Medium EI,High EI,91,23.1
+XGBoost,High EI,Medium EI,58,14.7
+XGBoost,High EI,Low EI,15,3.8
+XGBoost,Low EI,High EI,13,3.3

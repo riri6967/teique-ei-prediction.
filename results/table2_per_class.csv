@@ -1,0 +1,13 @@
+Model,Class,Precision,Recall
+FT-Transformer,Low EI,0.708 ± 0.130,0.775 ± 0.149
+FT-Transformer,Medium EI,0.474 ± 0.257,0.353 ± 0.204
+FT-Transformer,High EI,0.768 ± 0.105,0.810 ± 0.164
+TabNet,Low EI,0.666 ± 0.121,0.702 ± 0.147
+TabNet,Medium EI,0.413 ± 0.163,0.349 ± 0.167
+TabNet,High EI,0.718 ± 0.113,0.748 ± 0.167
+SAINT,Low EI,0.734 ± 0.124,0.768 ± 0.178
+SAINT,Medium EI,0.434 ± 0.230,0.370 ± 0.221
+SAINT,High EI,0.760 ± 0.100,0.835 ± 0.132
+XGBoost,Low EI,0.714 ± 0.124,0.720 ± 0.153
+XGBoost,Medium EI,0.500 ± 0.184,0.436 ± 0.180
+XGBoost,High EI,0.770 ± 0.109,0.818 ± 0.124

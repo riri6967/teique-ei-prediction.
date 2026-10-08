@@ -1,0 +1,18 @@
+{
+  "model": "ftt",
+  "selected_items": [
+    "i03",
+    "i05",
+    "i13",
+    "i16",
+    "i18",
+    "i22",
+    "i25",
+    "i26",
+    "i29",
+    "i30"
+  ],
+  "n_params": 101635,
+  "train_seconds": 1.866,
+  "test_accuracy": 0.6667
+}

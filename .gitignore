@@ -1,0 +1,19 @@
+# Raw survey export contains respondent names + timestamps -- never publish
+Trait_Emotional_Intelligence_Questionnaire___Responses_.xlsx
+*.xlsx
+
+# Original Drive download folder (contents copied to results/ and models/)
+EI_paper_results_*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
